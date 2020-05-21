@@ -5,7 +5,7 @@ Carlos López Carreño - 20162021295
 ---
 
 ### Diagrama
-umbrello
+Programa utilizado: umbrello
 
 ##### Primera versión
 ![Diagrama de casos de uso](cajero.png)
