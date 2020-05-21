@@ -5,4 +5,4 @@ Carlos López Carreño - 20162021295
 ---
 
 ### Diagrama
-![Diagrama de casos de uso]()
+![Diagrama de casos de uso](cajero.png)
