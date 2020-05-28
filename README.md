@@ -15,4 +15,4 @@ Programa utilizado: umbrello
 ![Diagrama de casos de uso](cajero_v2.png)
 
 ### Diagrama de clases
-![Diagrama de clases](diagrama de clases.png)
+![Diagrama de clases](diagramaclases.png)
