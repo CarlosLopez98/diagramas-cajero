@@ -20,3 +20,7 @@ Programa utilizado: Umbrello y Staruml
 
 ##### Segunda versión
 ![Diagrama de clases v2](diagrama_cajero.png)
+
+
+### Diagrama de actividades
+![Diagrama de actividades](diagrama_actividades.png)
