@@ -23,4 +23,8 @@ Programa utilizado: Umbrello y Staruml
 
 
 ### Diagrama de actividades
-![Diagrama de actividades](diagrama_actividades.png)
+![Diagrama de actividades](diagrama_actividades_retiro.png)
+
+![Diagrama de actividades](diagrama_actividades_deposito.png)
+
+![Diagrama de actividades](diagrama_actividades_trasferencia.png)
